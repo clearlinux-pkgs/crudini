@@ -1,0 +1,2 @@
+pushd tests && ./test.sh && popd
+
