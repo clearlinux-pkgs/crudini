@@ -4,7 +4,7 @@
 #
 Name     : crudini
 Version  : 0.5
-Release  : 10
+Release  : 11
 URL      : https://pypi.python.org/packages/source/c/crudini/crudini-0.5.tgz
 Source0  : https://pypi.python.org/packages/source/c/crudini/crudini-0.5.tgz
 Summary  : No detailed summary available
